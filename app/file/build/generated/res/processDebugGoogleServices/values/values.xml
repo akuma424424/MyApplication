@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">467580518984-j4kb61mg5a3f0qi6p70u5d3sg9il6cto.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">467580518984</string>
+    <string name="google_api_key" translatable="false">AIzaSyCFI28eJ14VvoG0_yQvDD49JUCd-tC9hu0</string>
+    <string name="google_app_id" translatable="false">1:467580518984:android:7889c4e5039e4a15360e7d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCFI28eJ14VvoG0_yQvDD49JUCd-tC9hu0</string>
+    <string name="google_storage_bucket" translatable="false">cerbero-2-94db6.firebasestorage.app</string>
+    <string name="project_id" translatable="false">cerbero-2-94db6</string>
+</resources>
