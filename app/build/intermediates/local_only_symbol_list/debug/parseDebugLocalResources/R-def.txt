@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable baked_goods_1
+drawable baked_goods_2
+drawable baked_goods_3
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string action_go
+string app_name
+string baking_title
+string com.google.firebase.crashlytics.mapping_file_id
+string default_web_client_id
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string image1_description
+string image2_description
+string image3_description
+string label_prompt
+string project_id
+string prompt_placeholder
+string results_placeholder
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules

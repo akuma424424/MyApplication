@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="action_go">Go</string>
+    <string name="app_name">My Application</string>
+    <string name="baking_title">Baking with Gemini</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">00000000000000000000000000000000</string>
+    <string name="default_web_client_id" translatable="false">467580518984-j4kb61mg5a3f0qi6p70u5d3sg9il6cto.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">467580518984</string>
+    <string name="google_api_key" translatable="false">AIzaSyCFI28eJ14VvoG0_yQvDD49JUCd-tC9hu0</string>
+    <string name="google_app_id" translatable="false">1:467580518984:android:7889c4e5039e4a15360e7d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCFI28eJ14VvoG0_yQvDD49JUCd-tC9hu0</string>
+    <string name="google_storage_bucket" translatable="false">cerbero-2-94db6.firebasestorage.app</string>
+    <string name="image1_description">Cupcake</string>
+    <string name="image2_description">Cookies</string>
+    <string name="image3_description">Cake</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="project_id" translatable="false">cerbero-2-94db6</string>
+    <string name="prompt_placeholder">Provide a recipe for the baked goods in the image</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+    <style name="Theme.MyApplication" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

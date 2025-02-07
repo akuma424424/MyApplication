@@ -1,0 +1,12 @@
+C:\Users\Michaek\AndroidStudioProjects\MyApplication\app\src\main\java\com\example\myapplication\MediaScreen.kt
+C:\Users\Michaek\AndroidStudioProjects\MyApplication\app\src\main\java\PermissionManager.kt
+C:\Users\Michaek\AndroidStudioProjects\MyApplication\app\src\main\java\com\example\myapplication\BakingScreen.kt
+C:\Users\Michaek\AndroidStudioProjects\MyApplication\app\src\main\java\com\example\myapplication\BakingViewModel.kt
+C:\Users\Michaek\AndroidStudioProjects\MyApplication\app\src\main\java\com\example\myapplication\MediaViewModelFactory.kt
+C:\Users\Michaek\AndroidStudioProjects\MyApplication\app\src\main\java\com\example\myapplication\ui\theme\Color.kt
+C:\Users\Michaek\AndroidStudioProjects\MyApplication\app\src\main\java\com\example\myapplication\MediaRepository.kt
+C:\Users\Michaek\AndroidStudioProjects\MyApplication\app\src\main\java\com\example\myapplication\ui\theme\Theme.kt
+C:\Users\Michaek\AndroidStudioProjects\MyApplication\app\src\main\java\com\example\myapplication\PermissionManager.kt
+C:\Users\Michaek\AndroidStudioProjects\MyApplication\app\src\main\java\com\example\myapplication\UiState.kt
+C:\Users\Michaek\AndroidStudioProjects\MyApplication\app\src\main\java\com\example\myapplication\MainActivity.kt
+C:\Users\Michaek\AndroidStudioProjects\MyApplication\app\src\main\java\com\example\myapplication\ui\theme\Type.kt
